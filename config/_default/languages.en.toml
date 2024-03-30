@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "tahmid-rahman.com"
+title = "Blowfish"
 
 [params]
   displayName = "EN"
@@ -13,8 +13,8 @@ title = "tahmid-rahman.com"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
-   name = "Tahmid Rahman"
+# [author]
+#   name = "Your name here"
 #   image = "img/blowfish_logo.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
